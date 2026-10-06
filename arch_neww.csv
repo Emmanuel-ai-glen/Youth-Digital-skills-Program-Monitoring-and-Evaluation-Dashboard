@@ -1,0 +1,101 @@
+Participant_ID,Enumerator_ID,District,Ward,Interview_Date,Age,Gender,Education_Level,Training_Type,Attendance_Rate,Training_Completed,Training_Score,Employment_Before,Employment_After,Income_Before_TZS,Income_After_TZS,Business_Started,Satisfaction_Score,Main_Barrier,Support_Needed
+P001,E001,Ilala,Kariakoo,7/6/2026,24,Yes,Secondary,Data Skills,88,Yes,88,Employed,Self-employed,270000,280000,Yes,3,Transport cost,No
+P002,E001,Ilala,Tabata,7/12/2026,18,No,Certificate,Computer Applications,59,No,62,Unemployed,Employed,0,80000,No,2,Work commitments,Yes
+P003,E001,Ilala,Tabata,7/14/2026,20,Yes,Diploma,Digital Marketing,78,Yes,72,Unemployed,Employed,0,310000,No,3,Work commitments,No
+P004,E001,Ilala,Tabata,7/16/2026,21,No,Diploma,Computer Applications,64,No,65,Unemployed,Employed,0,140000,No,4,Work commitments,No
+P005,E001,Ilala,Upanga,7/24/2026,25,Yes,Certificate,Digital Marketing,85,Yes,90,Unemployed,Self-employed,0,170000,Yes,3,None,No
+P006,E001,Ilala,Kariakoo,7/24/2026,29,Yes,Secondary,Digital Marketing,90,Yes,66,Unemployed,Unemployed,0,0,No,3,None,No
+P007,E001,Ilala,Tabata,7/9/2026,20,Yes,Secondary,Computer Applications,80,Yes,76,Unemployed,Unemployed,0,0,Yes,4,None,No
+P008,E001,Ilala,Upanga,7/7/2026,32,Yes,Certificate,Computer Applications,83,Yes,72,Unemployed,Self-employed,0,270000,No,3,None,No
+P009,E001,Ilala,Upanga,7/25/2026,19,Yes,Secondary,Computer Applications,80,Yes,63,Unemployed,Unemployed,0,0,No,4,Family responsibilities,No
+P010,E001,Ilala,Kariakoo,7/17/2026,30,No,Secondary,Data Skills,70,No,44,Self-employed,Employed,260000,180000,No,3,Family responsibilities,Yes
+P011,E001,Ilala,Upanga,7/1/2026,29,No,Certificate,Computer Applications,74,No,61,Employed,Unemployed,210000,0,No,2,Transport cost,Yes
+P012,E001,Ilala,Buguruni,7/16/2026,19,No,Certificate,Digital Marketing,100,No,90,Self-employed,Self-employed,260000,270000,No,2,None,Yes
+P013,E001,Ilala,Tabata,7/18/2026,26,Yes,Secondary,Digital Marketing,83,Yes,68,Employed,Self-employed,330000,190000,No,4,None,No
+P014,E001,Ilala,Tabata,7/23/2026,28,Yes,Secondary,Digital Marketing,92,Yes,63,Unemployed,Self-employed,0,220000,No,4,Family responsibilities,No
+P015,E001,Ilala,Kariakoo,7/18/2026,26,No,Diploma,Data Skills,90,No,87,Employed,Unemployed,270000,0,No,3,Internet/device access,Yes
+P016,E001,Ilala,Tabata,7/22/2026,20,Yes,Secondary,Computer Applications,79,Yes,65,Unemployed,Self-employed,0,150000,No,5,None,No
+P017,E001,Ilala,Upanga,7/17/2026,31,Yes,Bachelor,Data Skills,100,Yes,76,Self-employed,Self-employed,230000,310000,Yes,3,None,No
+P018,E001,Ilala,Upanga,7/23/2026,31,No,Certificate,Digital Marketing,94,No,75,Unemployed,Unemployed,0,0,No,4,Work commitments,Yes
+P019,E001,Ilala,Buguruni,7/1/2026,20,Yes,Diploma,Digital Marketing,84,Yes,78,Employed,Self-employed,370000,140000,No,3,None,No
+P020,E001,Ilala,Buguruni,7/14/2026,28,No,Diploma,Data Skills,73,No,54,Self-employed,Unemployed,310000,0,No,3,Internet/device access,Yes
+P021,E002,Kinondoni,Sinza,7/15/2026,29,Yes,Secondary,Data Skills,100,Yes,97,Self-employed,Employed,220000,190000,No,4,None,No
+P022,E002,Kinondoni,Manzese,7/19/2026,28,Yes,Certificate,Data Skills,83,Yes,79,Employed,Employed,310000,140000,No,2,Work commitments,No
+P023,E002,Kinondoni,Kawe,7/5/2026,22,Yes,Secondary,Data Skills,84,Yes,70,Unemployed,Self-employed,0,260000,Yes,4,None,No
+P024,E002,Kinondoni,Manzese,7/26/2026,20,Yes,Certificate,Data Skills,89,Yes,79,Unemployed,Employed,0,310000,No,3,None,No
+P025,E002,Kinondoni,Sinza,7/17/2026,22,No,Secondary,Computer Applications,80,No,73,Unemployed,Unemployed,0,0,No,4,None,No
+P026,E002,Kinondoni,Sinza,7/10/2026,29,Yes,Diploma,Data Skills,100,Yes,58,Self-employed,Unemployed,180000,0,Yes,4,None,No
+P027,E002,Kinondoni,Mikocheni,7/3/2026,19,Yes,Certificate,Data Skills,84,Yes,79,Employed,Self-employed,320000,230000,No,4,Work commitments,No
+P028,E002,Kinondoni,Manzese,7/19/2026,34,No,Certificate,Digital Marketing,72,No,86,Unemployed,Employed,0,120000,No,3,Internet/device access,Yes
+P029,E002,Kinondoni,Manzese,7/12/2026,21,No,Bachelor,Digital Marketing,94,No,79,Unemployed,Unemployed,0,0,No,3,None,Yes
+P030,E002,Kinondoni,Mikocheni,7/18/2026,21,Yes,Diploma,Computer Applications,100,Yes,82,Unemployed,Unemployed,0,0,No,4,None,No
+P031,E002,Kinondoni,Sinza,7/28/2026,19,Yes,Secondary,Computer Applications,97,Yes,63,Unemployed,Unemployed,0,0,No,3,Transport cost,No
+P032,E002,Kinondoni,Manzese,7/28/2026,29,Yes,Certificate,Digital Marketing,78,Yes,72,Employed,Employed,250000,350000,No,5,Internet/device access,No
+P033,E002,Kinondoni,Mikocheni,7/22/2026,18,No,Bachelor,Data Skills,84,No,74,Unemployed,Unemployed,0,0,No,5,None,Yes
+P034,E002,Kinondoni,Kawe,7/16/2026,20,Yes,Secondary,Digital Marketing,87,Yes,96,Self-employed,Employed,200000,180000,No,2,Work commitments,No
+P035,E002,Kinondoni,Manzese,7/24/2026,30,Yes,Diploma,Digital Marketing,86,Yes,82,Unemployed,Unemployed,0,0,No,5,None,No
+P036,E002,Kinondoni,Manzese,7/21/2026,18,Yes,Bachelor,Computer Applications,99,Yes,71,Unemployed,Self-employed,0,260000,No,4,Transport cost,No
+P037,E002,Kinondoni,Manzese,7/26/2026,22,No,Diploma,Data Skills,64,No,62,Self-employed,Self-employed,120000,180000,No,3,Transport cost,Yes
+P038,E002,Kinondoni,Manzese,7/7/2026,19,Yes,Diploma,Data Skills,94,Yes,71,Employed,Unemployed,380000,0,Yes,5,Transport cost,No
+P039,E002,Kinondoni,Sinza,7/24/2026,19,Yes,Diploma,Digital Marketing,99,Yes,86,Self-employed,Self-employed,350000,230000,No,5,Work commitments,No
+P040,E002,Kinondoni,Manzese,7/16/2026,27,No,Secondary,Computer Applications,84,No,59,Self-employed,Unemployed,140000,0,No,4,None,Yes
+P041,E003,Temeke,Temeke,7/10/2026,28,Yes,Diploma,Digital Marketing,75,Yes,61,Unemployed,Self-employed,0,210000,Yes,4,None,No
+P042,E003,Temeke,Mbagala,7/17/2026,23,No,Certificate,Data Skills,74,No,59,Unemployed,Unemployed,0,0,No,2,Internet/device access,No
+P043,E003,Temeke,Temeke,7/19/2026,21,Yes,Diploma,Computer Applications,84,Yes,68,Unemployed,Self-employed,0,150000,No,5,None,No
+P044,E003,Temeke,Kurasini,7/22/2026,20,Yes,Certificate,Data Skills,78,Yes,71,Unemployed,Employed,0,170000,No,4,None,No
+P045,E003,Temeke,Chang'ombe,7/9/2026,29,Yes,Certificate,Digital Marketing,81,Yes,86,Unemployed,Self-employed,0,140000,No,5,None,No
+P046,E003,Temeke,Chang'ombe,7/30/2026,23,Yes,Diploma,Data Skills,100,Yes,57,Unemployed,Employed,0,240000,Yes,4,Work commitments,No
+P047,E003,Temeke,Mbagala,7/30/2026,26,No,Certificate,Data Skills,52,No,68,Employed,Unemployed,250000,0,No,3,Internet/device access,No
+P048,E003,Temeke,Chang'ombe,7/5/2026,19,Yes,Diploma,Data Skills,94,Yes,69,Self-employed,Self-employed,280000,260000,No,5,Transport cost,No
+P049,E003,Temeke,Kurasini,7/5/2026,28,No,Certificate,Digital Marketing,59,No,80,Unemployed,Unemployed,0,0,No,2,Family responsibilities,Yes
+P050,E003,Temeke,Kurasini,7/9/2026,34,Yes,Certificate,Data Skills,84,Yes,72,Unemployed,Unemployed,0,0,No,4,Internet/device access,No
+P051,E003,Temeke,Mbagala,7/13/2026,29,Yes,Bachelor,Data Skills,89,Yes,80,Unemployed,Unemployed,0,0,Yes,5,Family responsibilities,No
+P052,E003,Temeke,Kurasini,7/23/2026,35,No,Certificate,Data Skills,65,No,62,Self-employed,Unemployed,240000,0,No,1,Family responsibilities,Yes
+P053,E003,Temeke,Mbagala,7/29/2026,31,No,Secondary,Digital Marketing,52,No,80,Self-employed,Unemployed,360000,0,No,4,Internet/device access,Yes
+P054,E003,Temeke,Mbagala,7/29/2026,18,Yes,Diploma,Computer Applications,83,Yes,70,Unemployed,Employed,0,310000,No,4,Work commitments,No
+P055,E003,Temeke,Temeke,7/23/2026,21,No,Diploma,Computer Applications,69,No,84,Unemployed,Self-employed,0,240000,No,2,Internet/device access,Yes
+P056,E003,Temeke,Kurasini,7/29/2026,31,Yes,Bachelor,Data Skills,75,Yes,69,Unemployed,Self-employed,0,210000,Yes,4,None,No
+P057,E003,Temeke,Kurasini,7/21/2026,25,Yes,Bachelor,Computer Applications,98,Yes,71,Self-employed,Unemployed,200000,0,No,4,None,No
+P058,E003,Temeke,Temeke,7/11/2026,26,Yes,Secondary,Computer Applications,88,Yes,88,Unemployed,Unemployed,0,0,No,3,Family responsibilities,No
+P059,E003,Temeke,Chang'ombe,7/21/2026,29,No,Secondary,Digital Marketing,45,No,52,Employed,Unemployed,190000,0,No,3,Work commitments,Yes
+P060,E003,Temeke,Temeke,7/30/2026,24,Yes,Certificate,Digital Marketing,96,Yes,79,Self-employed,Employed,100000,250000,Yes,4,Family responsibilities,No
+P061,E004,Ubungo,Sinza,7/4/2026,34,No,Certificate,Digital Marketing,72,No,72,Unemployed,Unemployed,0,0,No,1,Work commitments,Yes
+P062,E004,Ubungo,Sinza,7/3/2026,25,Yes,Bachelor,Computer Applications,96,Yes,85,Unemployed,Employed,0,140000,Yes,5,None,No
+P063,E004,Ubungo,Kibamba,7/14/2026,25,Yes,Diploma,Computer Applications,98,Yes,65,Employed,Employed,300000,300000,No,4,None,No
+P064,E004,Ubungo,Sinza,7/2/2026,33,Yes,Diploma,Computer Applications,97,Yes,80,Unemployed,Unemployed,0,0,No,5,None,No
+P065,E004,Ubungo,Ubungo,7/17/2026,29,No,Certificate,Data Skills,73,No,84,Unemployed,Self-employed,0,170000,No,2,Internet/device access,Yes
+P066,E004,Ubungo,Kimara,7/4/2026,34,No,Certificate,Digital Marketing,64,No,76,Employed,Unemployed,210000,0,No,4,Internet/device access,Yes
+P067,E004,Ubungo,Sinza,7/10/2026,23,Yes,Certificate,Digital Marketing,96,Yes,71,Employed,Employed,180000,270000,No,5,None,No
+P068,E004,Ubungo,Sinza,7/8/2026,34,Yes,Certificate,Computer Applications,100,Yes,74,Unemployed,Employed,0,260000,No,3,Transport cost,No
+P069,E004,Ubungo,Kimara,7/27/2026,19,No,Bachelor,Digital Marketing,64,No,68,Self-employed,Unemployed,210000,0,No,2,Family responsibilities,Yes
+P070,E004,Ubungo,Kimara,7/12/2026,28,Yes,Diploma,Computer Applications,81,Yes,91,Unemployed,Employed,0,280000,No,4,None,No
+P071,E004,Ubungo,Kimara,7/8/2026,22,No,Bachelor,Digital Marketing,64,No,66,Unemployed,Unemployed,0,0,No,4,Family responsibilities,Yes
+P072,E004,Ubungo,Sinza,7/23/2026,35,Yes,Secondary,Digital Marketing,90,Yes,80,Self-employed,Self-employed,140000,260000,Yes,3,None,No
+P073,E004,Ubungo,Kimara,7/23/2026,35,Yes,Secondary,Computer Applications,90,Yes,97,Unemployed,Employed,0,270000,No,5,None,No
+P074,E004,Ubungo,Sinza,7/23/2026,29,Yes,Diploma,Digital Marketing,81,Yes,85,Unemployed,Self-employed,0,310000,No,3,Internet/device access,No
+P075,E004,Ubungo,Kibamba,7/30/2026,30,No,Bachelor,Digital Marketing,51,No,65,Unemployed,Self-employed,0,110000,No,2,Work commitments,Yes
+P076,E004,Ubungo,Ubungo,7/4/2026,20,Yes,Secondary,Computer Applications,79,Yes,79,Self-employed,Unemployed,340000,0,No,5,None,No
+P077,E004,Ubungo,Kimara,7/25/2026,22,Yes,Secondary,Data Skills,94,Yes,74,Unemployed,Self-employed,0,340000,No,5,None,No
+P078,E004,Ubungo,Kimara,7/17/2026,26,Yes,Diploma,Computer Applications,75,Yes,70,Unemployed,Unemployed,0,0,No,4,Transport cost,No
+P079,E004,Ubungo,Kibamba,7/2/2026,20,No,Secondary,Data Skills,66,No,93,Unemployed,Employed,0,230000,No,3,Transport cost,No
+P080,E004,Ubungo,Ubungo,7/2/2026,26,Yes,Bachelor,Computer Applications,89,Yes,65,Employed,Self-employed,210000,180000,No,5,None,No
+P081,E005,Kigamboni,Mjimwema,7/4/2026,30,Yes,Bachelor,Computer Applications,82,Yes,83,Unemployed,Unemployed,0,0,No,4,None,No
+P082,E005,Kigamboni,Somangila,7/2/2026,23,Yes,Bachelor,Digital Marketing,81,Yes,79,Employed,Unemployed,140000,0,Yes,4,None,No
+P083,E005,Kigamboni,Tungi,7/20/2026,31,Yes,Diploma,Data Skills,87,Yes,72,Self-employed,Employed,240000,260000,No,4,None,No
+P084,E005,Kigamboni,Mjimwema,7/15/2026,21,No,Diploma,Computer Applications,84,No,56,Unemployed,Employed,0,230000,No,3,None,Yes
+P085,E005,Kigamboni,Somangila,7/3/2026,28,Yes,Certificate,Digital Marketing,75,Yes,59,Unemployed,Self-employed,0,230000,Yes,4,None,No
+P086,E005,Kigamboni,Tungi,7/18/2026,29,No,Diploma,Computer Applications,74,No,53,Self-employed,Unemployed,270000,0,No,3,Transport cost,Yes
+P087,E005,Kigamboni,Tungi,7/26/2026,29,Yes,Bachelor,Computer Applications,85,Yes,72,Unemployed,Unemployed,0,0,No,3,None,No
+P088,E005,Kigamboni,Tungi,7/11/2026,31,Yes,Secondary,Digital Marketing,86,Yes,60,Unemployed,Employed,0,290000,Yes,3,None,No
+P089,E005,Kigamboni,Kigamboni,7/17/2026,34,Yes,Secondary,Digital Marketing,97,Yes,98,Self-employed,Self-employed,160000,210000,No,4,Transport cost,No
+P090,E005,Kigamboni,Mjimwema,7/7/2026,31,Yes,Certificate,Data Skills,88,Yes,80,Employed,Employed,140000,390000,No,4,None,No
+P091,E005,Kigamboni,Tungi,7/9/2026,31,No,Diploma,Data Skills,95,No,80,Employed,Unemployed,310000,0,No,3,Internet/device access,Yes
+P092,E005,Kigamboni,Somangila,7/9/2026,29,No,Diploma,Data Skills,74,No,82,Unemployed,Employed,0,160000,No,4,Internet/device access,Yes
+P093,E005,Kigamboni,Mjimwema,7/6/2026,31,No,Secondary,Data Skills,73,No,66,Unemployed,Self-employed,0,200000,No,3,Family responsibilities,Yes
+P094,E005,Kigamboni,Tungi,7/5/2026,22,No,Bachelor,Data Skills,67,No,75,Unemployed,Employed,0,240000,No,3,Family responsibilities,Yes
+P095,E005,Kigamboni,Tungi,7/3/2026,35,Yes,Diploma,Digital Marketing,100,Yes,73,Unemployed,Unemployed,0,0,No,5,Family responsibilities,No
+P096,E005,Kigamboni,Tungi,7/29/2026,35,No,Diploma,Computer Applications,61,No,72,Unemployed,Self-employed,0,100000,No,3,Work commitments,Yes
+P097,E005,Kigamboni,Kigamboni,7/23/2026,31,Yes,Certificate,Computer Applications,78,Yes,69,Unemployed,Employed,0,160000,No,5,None,No
+P098,E005,Kigamboni,Mjimwema,7/20/2026,28,No,Certificate,Digital Marketing,72,No,65,Unemployed,Employed,0,50000,No,5,Internet/device access,Yes
+P099,E005,Kigamboni,Kigamboni,7/20/2026,28,No,Diploma,Data Skills,65,No,81,Unemployed,Unemployed,0,0,No,3,Internet/device access,Yes
+P100,E005,Kigamboni,Mjimwema,7/2/2026,31,Yes,Certificate,Digital Marketing,80,Yes,62,Self-employed,Self-employed,390000,170000,No,5,None,No
